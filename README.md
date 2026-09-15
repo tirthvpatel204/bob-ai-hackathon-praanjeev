@@ -20,6 +20,7 @@
 PRAANJEEV solves the problem of finding the right hospital during a medical emergency by considering the patient’s condition, nearby verified hospital resources, treatment capabilities, traffic, and route time instead of simply choosing the nearest hospital. This problem is experienced by emergency patients and their families, ambulance teams, and hospitals that need timely information to coordinate care and prepare before the patient arrives.
 
 ---
+## Live Demo Link : https://praanjeevai.vercel.app/
 
 ## 💡 Solution
 
