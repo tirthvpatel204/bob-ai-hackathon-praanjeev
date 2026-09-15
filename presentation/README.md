@@ -1,5 +1,9 @@
 # PRAANJEEV — Presentation
 
+
+##  PDF Link : https://drive.google.com/file/d/1hj_rdgyMYF5oOS24x5B78yMHP85d_jwJ/view?usp=drive_link
+
+
 Place the PRAANJEEV presentation slide deck in this folder.
 
 ## Accepted Formats
