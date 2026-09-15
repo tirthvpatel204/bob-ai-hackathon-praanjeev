@@ -10,9 +10,9 @@ The demo also shows the emergency coordination workflow, smart routing and hospi
 
 ## ▶️ YouTube Demo
 
-🎥 **Watch the PRAANJEEV Demo on YouTube:**
+## 🎥 **Watch the PRAANJEEV Demo on YouTube:**
 
-https://youtu.be/IJOUuv9zmT0
+## https://youtu.be/IJOUuv9zmT0
 
 The YouTube video demonstrates the PRAANJEEV application running and walks through the core emergency-response workflow.
 
@@ -20,9 +20,9 @@ The YouTube video demonstrates the PRAANJEEV application running and walks throu
 
 ## 💾 Google Drive Backup
 
-📁 **Google Drive Demo Video:**
+## 📁 **Google Drive Demo Video:**
 
-https://drive.google.com/file/d/1YvzOgI-8LeREI5Cz6zhi3BYnN2f-jGn_/view?usp=drive_link
+## https://drive.google.com/file/d/1YvzOgI-8LeREI5Cz6zhi3BYnN2f-jGn_/view?usp=drive_link
 
 The Google Drive link is provided as an alternative access option for the demo video.
 
